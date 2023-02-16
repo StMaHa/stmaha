@@ -5,7 +5,7 @@ If you don't repeat it over and over again, you forget it...
 
 These repositories are meant to be a memory for all the little things that are easily forgotten...
 
-[Things about Git I do not want to forget...](git_readme.md)
+[Things about Git I do not want to forget...](https://github.com/StMaHa/stmaha/wiki)
 
 <!--
 **StMaHa/stmaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
