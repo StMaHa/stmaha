@@ -1,7 +1,7 @@
 ### Hi there
-I love toys like Raspberry Pi, Arduino, microcontroller :wink:
+I love toys like Raspberry Pi, Arduino and a lot of microcontrollers :wink:
 
-If you don't repeat doing things over and over again, you forget it...
+If you don't repeat doing things over and over again, you will forget it...
 
 These repositories are meant to be a memory for all the little things that are easily forgotten...
 
